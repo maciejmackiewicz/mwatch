@@ -1,2 +1,3 @@
 # mwatch
 Watchmakers of the new times - project
+Hallo World! With this project I want to introduce new approach to the idea of the clock. We want to stop the eternal ruling of the main 12 number on the clock face and replace it with 2 (for starters) Why? Why not! In our opinion idea of the clock face should evolve. This symbolizes the new times we are facing. Cant you see we are in future now? Me myself I dont code, but I design things, I'm a graphic designer. I need your help in improving the code for New Times Clock, the adventure just begins. At the moment the Clock prototype is almost ready. I am looking for a way to scale my clock in a way to watch it on every platform, it's not done - please help me :) sincerely Maciej Mackiewicz
